@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  background-color: #5f4b8bff;
+}
+.top_row {
+  width: 100vw;
+  height: 15vh;
+}
+.bottom_row {
+  height: 80vh;
+  width: 100vw;
+}
+.column {
+  height: 100% !important;
+}
+.heading {
+  background-color: #e69a8dff;
+  margin: 0;
+  padding: 5px;
+}
+#editor {
+  width: 100% !important;
+  height: 98% !important;
+}
+#preview {
+  border: 2px solid black;
+  overflow: scroll;
+  height: 98%;
+  background-color: white;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
